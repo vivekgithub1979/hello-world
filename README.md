@@ -1,2 +1,1 @@
-# hello-world
-first repository in git hub
+I am a .Net deveoper
